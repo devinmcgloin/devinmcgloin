@@ -16,8 +16,4 @@ Creating art with computers, focused on 2D plots and interactive pieces.
 
 ### Elsewhere on the web
 
-[Twitter](https://twitter.com/devinmcgloin)
-
-[Unsplash](https://unsplash.com/@devinmcgloin)
-
-[Email](mailto:devin@mcgloin.email)
+[Twitter](https://twitter.com/devinmcgloin) * [Unsplash](https://unsplash.com/@devinmcgloin) * [Email](mailto:devin@mcgloin.email)
