@@ -9,10 +9,10 @@ I'm an occasional backpacker, [artist](https://devin.website/art) and [photograp
 I want to spend time building / restoring physical things, but increasingly find myself building on computers. I have todo list items like "Restore a Porsche 964", "Build a house", and "Earn a private pilot license".
 
 ### Interested In
-Building Tools for Thought / Increasing our ability to understand and influence the world around us.
-Developing [quality](https://devin.website/tags/software) & [humane software](https://devin.website/tags/humane-software).
-Building and operating small software businesses.
-Creating art with computers, focused on 2D plots and interactive pieces.
+* Building Tools for Thought / Increasing our ability to understand and influence the world around us.
+* Developing [quality](https://devin.website/tags/software) & [humane software](https://devin.website/tags/humane-software).
+* Building and operating small software businesses.
+* Creating art with computers, focused on 2D plots and interactive pieces.
 
 ### Elsewhere on the web
 
